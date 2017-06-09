@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IEEE745</string>
+    <string name="title_activity_decoder">FLOAT解码器</string>
+    <string name="title_activity_encoder">FLOAT编码器</string>
+    <string name="tips_decoder">请输入四字节原始编码</string>
+    <string name="tips_encoder">请输入需要编码的数字</string>
+    <string name="title_activity_double_decoder">DOUBLE解码器</string>
+    <string name="title_activity_double_encoder">DOUBLE编码器</string>
+    <string name="tips_double_decoder_show">请输入八字节原始编码</string>
+    <string name="tips_double_encoder_show">请输入需要编码的数字</string>
+    <string name="tips_decoder_show">解码输出</string>
+    <string name="tips_encoder_show">编码输出</string>
+    <string name="title_activity_about">关于</string>
+    <string name="filter_vcode">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+</resources>
